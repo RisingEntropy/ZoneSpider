@@ -2,7 +2,7 @@
 
 A  spider used to collect like information in QZone.
 
-UI by QT5.14. Please use MSVC 2015 or MSVC2017 rather than MinGW when compiling on windows due to the usage of `QWebEngineView` 
+UI by QT5.14. Please use MSVC 2015 or MSVC2017 rather than MinGW when compiling on windows due to the use of `QWebEngineView` 
 
 # Denendences
 
